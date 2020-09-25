@@ -8,7 +8,7 @@ Atividade individual de simulação de redes de Poisson, definida nas páginas 6
 
 ### Enunciado
 
-Instalar um software e simular uma rede de "Poisson" (binomial "grande"), com diferentes valores de z em função de q e n arbitrariamente definidos.
+Instalar um software e simular uma rede de “Poisson” (binomial "grande"), com diferentes valores de z em função de q e n arbitrariamente definidos.
 
 **Questões para análise:**
 - Observa-se o efeito de limiar para a conectividade?
