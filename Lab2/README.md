@@ -1,0 +1,36 @@
+# (CT-236) Lab2: Simulação de Redes Scale-Free
+
+## <a name='Cadernoscontendoaimplementaofinal:'></a>Cadernos contendo a implementação final:
+- [Caderno: Redes Scale-Free](scale-free.ipynb) (WIP)
+
+---
+
+## <a name='TabeladeContedos'></a>Tabela de Conteúdos
+<!-- vscode-markdown-toc -->
+* [Resumo](#Resumo)
+* [Enunciado](#Enunciado)
+* [Avaliação](#Avaliao)
+
+<!-- vscode-markdown-toc-config
+	numbering=false
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+
+## <a name='Resumo'></a>Resumo
+Atividade individual de simulação de redes de Poisson, definida nas páginas 6-7 dos slides da 2a. aula. Envolverá programação, testes e análise, com relatório de 3-4 páginas a ser entregue IMPRETERIVELMENTE ATÉ 14/10/2020 (por email). Recomenda-se fortemente a entrega antecipada, para evitar sobrecarga por outras atividades com relatórios a serem entregues ao longo do curso.
+
+## <a name='Enunciado'></a>Enunciado
+
+a) Produzir redes scale-free sintetizadas de acordo com o modelo BA. Verificar empiricamente as propriedades CC e APL; verificar se o CC condiz com o esperado; comparar com CC e APL previstos para redes SW Watts-Strogatz e informar o que se observa. b) Refazer a análise do item a) para redes sintetizadas segundo algum modelo com ligações preferenciais relatado na literatura que alegadamente tem maior estrutura local.
+
+b) Refazer a análise do item a) para redes sintetizadas segundo algum modelo com ligações preferenciais relatado na literatura que alegadamente tem maior estrutura local.
+
+## <a name='Avaliao'></a>Avaliação
+- **Metodologia** [20/50]
+    - Descrição e adequação
+- **Análise** [20/50]
+    - Aplicação da metodologia e análise dos resultados
+- **Qualidade do texto** [10/50]
+    - Clareza, correção e objetividade
