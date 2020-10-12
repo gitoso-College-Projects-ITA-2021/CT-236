@@ -1,0 +1,5 @@
+- [?] Alterar o trabalho para se trabalhar com q como variável independente
+- [x] Observar o efeito de limiar para a conectividade (Limiar em q = 1/n)
+- [x] Usar as bibliotecas de visualização
+- [ ] Caracterizar as componentes gigantes (de acordo com definições encontradas na literatura)
+- [ ] Observar a variação logaritmica do diâmetro da rede
