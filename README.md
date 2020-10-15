@@ -4,7 +4,7 @@ Repositório contendo os códigos desenvolvidos para a disciplina de CTC-17 do I
 
 **Projetos:**
 - [Laboratório 1: Redes de Poisson](Lab1)
-- [Laboratório 2: Redes Livres de Escala](Lab2) (WIP)
+- [Laboratório 2: Redes Livres de Escala](Lab2)
 
 **Desenvolvedor:**
 - [Gianluigi Dal Toso](https://gitlab.com/gitoso)
