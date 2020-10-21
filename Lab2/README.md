@@ -1,7 +1,7 @@
 # (CT-236) Lab2: Simulação de Redes Scale-Free
 
 ## <a name='Cadernoscontendoaimplementaofinal:'></a>Cadernos contendo a implementação final:
-- [Caderno: Redes Scale-Free](scale-free.ipynb) (WIP)
+- [Caderno: Redes Scale-Free](scale-free.ipynb)
 
 ---
 
