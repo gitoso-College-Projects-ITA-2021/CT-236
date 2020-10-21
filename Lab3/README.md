@@ -5,19 +5,6 @@
 
 ---
 
-## <a name='TabeladeContedos'></a>Tabela de Conteúdos
-<!-- vscode-markdown-toc -->
-* [Resumo](#Resumo)
-* [Enunciado](#Enunciado)
-* [Avaliação](#Avaliao)
-
-<!-- vscode-markdown-toc-config
-	numbering=false
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
-
-
 ## <a name='Enunciado'></a>Enunciado
 
 Atividade individual, consistindo de:
